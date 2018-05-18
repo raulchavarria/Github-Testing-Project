@@ -19,7 +19,13 @@ namespace Github_Testing_Project
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello World");
+            MessageBox.Show("Hello World my friends and all the people");
+            HelloWorld();
+        }
+
+        private void HelloWorld()
+        {
+            
         }
     }
 }
